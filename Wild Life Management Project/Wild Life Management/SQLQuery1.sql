@@ -1,36 +1,3 @@
-# WildLife-Management
-WildLife Management - Project in Visual Basics and MSSQL
-
-
-			READ ME ( Wildlife Management )
-
-HARDWARE REQUIREMENT
-
-Processor		:	Pentium IV 800MHz or higher.
-RAM			:	1 GB and above
-Hard Disk Drive		:	20 GB or higher
-Keyboard		:	101/102 Natural Keyboard
-Monitor			:	Resolution of 800 X 600
-
-SOFTWARE SPECIFICATIONS
-
-Operating System    	:	Windows XP or higher
-Tools Required :
-			SQL Server Management Studio 2008 or higher
-			Microsoft Visual Studio 2010 or higher
-
-INSTALLATION PROCEDURE
-
-1. Install SQL Server Management Studio 2008 or higher
-2. Install Microsoft Visual Studio 2010 or higher
-3. Copy the WildLife Mangement folder into the harddisk
-4. Copy the WildLife Photos folder into the C:\ drive
-5. Open SQLQueries1.sql file with SQL Server Management Studio
-6. Block all the entries in it and press F5. This will create the required databases and tables.
-7. Open the WildLife Management.sln file usin isual Studio. Press F5 to run the software. This will successfully connect to the database and run the software.
-
-The list of queries to be executed is given in this file also :
-
 create database wildlife_management;
 use wildlife_management;
 
