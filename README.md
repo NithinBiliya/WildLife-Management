@@ -1,6 +1,8 @@
 # WildLife-Management
 WildLife Management - Project in Visual Basics and MSSQL
 
+Wildlife includes a wide variety of animals and birds. It is very difficult to keep track of all these animals and birds in details. This application helps in structured storage and easy retrieval of the details of each of these animal species.
+Many wildlife enthusiasts can use this application as their wildlife dictionary and they can add their own information and sightings of these animals.
 
 			READ ME ( Wildlife Management )
 
